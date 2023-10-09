@@ -12,3 +12,5 @@ date: 2020-01-29
 </p>
 
 Mi nombre es Alejandro Natividad Rodríguez (*4rlekiing*); este sitio lo considero mi blog de notas, estaré subiendo todos mis apuntes, desde temas de programación, Bug bounty, Pentesting, descubrimiento de vulnerabilidades, resolución de máquinas (Vulnhub, TryHackme, Hack The Box, etc.), apuntes de las diversas plataformas de aprendizaje de ciberseguridad, entre mucho más contenido.
+
+Si existe un tema en especial que necesite de ayuda o soporte, no dude en contactarme y en breve nos pondremos de acuerdo para inciar operaciones.
