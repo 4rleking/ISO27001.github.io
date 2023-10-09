@@ -5,7 +5,7 @@ excerpt: ""
 date: 2023-08-11
 classes: wide
 header:
-  teaser: /assets/images/
+  teaser: /assets/images/Introduccion/Intro_2.jpeg
   teaser_home_page: true
 categories:
   - Programación
@@ -13,4 +13,4 @@ tags:
   - Fundamentos
 ---
 
-![](/assets/images/)
+![](/assets/images/Introduccion/Intro_1.jpg)
