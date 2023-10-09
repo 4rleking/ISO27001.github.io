@@ -19,7 +19,8 @@ tags:
 Este sistema se utiliza para proteger la confidencialidad, integridad y disponibilidad de la información. La norma proporciona un marco para la seguridad de la información que ayuda a las organizaciones a identificar y gestionar sus riesgos de seguridad de la información de manera efectiva.
 
 ```text
-La aplicación de ISO-27001 significa una diferenciación respecto al resto, que mejora la competitividad y la imagen de una organización.
+La aplicación de ISO-27001 significa una diferenciación respecto al resto, que mejora la competitividad 
+y la imagen de una organización.
 ```
 
 ## Aplicabilidad de la norma ISO 27001
@@ -30,21 +31,10 @@ La norma ISO 27001 se aplica a cualquier tipo de organización, incluyendo peque
 
 El proceso de implementación de la norma ISO 27001 se divide en cuatro fases: planificación, implementación, evaluación y mejora continua.
 
-### Fase de planificación
-
-Durante la fase de planificación, la organización identifica sus requisitos de seguridad de la información y establece un plan para implementar el SGSI.
-
-### Fase de implementación
-
-La fase de implementación incluye la creación de políticas, procedimientos y controles para proteger la información.
-
-### Fase de evaluación
-
-Durante la fase de evaluación, la organización evalúa la eficacia de su SGSI e identifica áreas de mejora.
-
-### Fase de mejora continua
-
-La fase de mejora continua implica la identificación y aplicación de mejoras a los procesos y controles del SGSI.
+* `Fase de planificación`. Durante la fase de planificación, la organización identifica sus requisitos de seguridad de la información y establece un plan para implementar el SGSI.
+* `Fase de implementación`. La fase de implementación incluye la creación de políticas, procedimientos y controles para proteger la información.
+* `Fase de evaluación`. Durante la fase de evaluación, la organización evalúa la eficacia de su SGSI e identifica áreas de mejora.
+* `Fase de mejora continua`. La fase de mejora continua implica la identificación y aplicación de mejoras a los procesos y controles del SGSI.
 
 Una vez implementado y certificado, el SGSI debe ser revisado y actualizado regularmente para garantizar su continuo cumplimiento con los requisitos de seguridad de la información. La certificación ISO 27001, aunque no es obligatoria, también puede mejorar la imagen de la marca y la confianza de los clientes, ya que demuestra que la organización está comprometida con la protección de la información y esto lo acredita una entidad certificadora independiente.
 
