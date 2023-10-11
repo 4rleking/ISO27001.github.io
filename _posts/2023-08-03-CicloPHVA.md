@@ -19,6 +19,8 @@ La ISO 27001 se basa en el ciclo PHVA, también conocido como ciclo de Deming. E
 
 <center>
     <img src='./../assets/images/Ciclo/resumen.png'>
-    <img src='./../assets/images/Ciclo/PHVA.png'>
 </center>
 
+<center>
+    <img src='./../assets/images/Ciclo/PHVA.png'>
+</center>
