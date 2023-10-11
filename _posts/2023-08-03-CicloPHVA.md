@@ -21,6 +21,8 @@ La ISO 27001 se basa en el ciclo PHVA, también conocido como ciclo de Deming. E
     <img src='./../assets/images/Ciclo/resumen.png'>
 </center>
 
+PHVA es un ejemplo de un sistema cerrado en círculo. Esto asegura el aprendizaje de las fases de hacer y verificar y su uso en las fases de planificación y actuación. En teoría hablamos de un proceso cíclico.
+
 <center>
     <img src='./../assets/images/Ciclo/PHVA.png'>
 </center>
