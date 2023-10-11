@@ -52,3 +52,14 @@ LA CERTIFICACIÓN GARANTIZA:
 
 Un proceso es la transformación de una entrada en una salida, que tienen lugar como consecuencia una serie de pasos o actividades que tienen unos objetivos planificados. Frecuentemente, la salida de un proceso se convierte en la entrada de otro proceso posterior. Muy pocos procesos actúan de forma aislada.
 
+Incluso una auditoría tiene un enfoque de proceso. Comienza con la identificación del alcance y los criterios, establece un curso de acción claro para lograr el resultado y tiene un resultado definido (el informe de auditoría). El uso del enfoque basado en procesos garantiza que se asignen el tiempo y las habilidades necesarias para la auditoría. Esto hace de la auditoría una evaluación efectiva del rendimiento del SGSI.
+
+## ISO 27001:2013 Fundamentales y vocabulario.
+
+Comprender cómo los se interrelacionan los procesos y cómo producen resultados puede ayudarlo a identificar oportunidades de mejora y, por lo tanto, a optimizar el rendimiento general. También es aplicable cuando los procesos, o partes de los procesos, se subcontratan. Comprender cómo afecta o podría afectar esto al resultado y comunicarlo claramente al socio comercial (que proporciona el producto o servicio subcontratado) garantiza la claridad y responsabilidad en el proceso.
+
+El paso final del proceso es revisar el resultado de la auditoría y garantizar que la información obtenida se utilice correctamente. La revisión por la dirección supone la oportunidad de reflexionar sobre el desempeño del QMS y de tomar decisiones sobre cómo y dónde mejorar. Dicho proceso se trata con más detalle en la Sección 9: Evaluación del desempeño.
+
+<center>
+    <img src='./../assets/images/Auditorias/Proceso.png'>
+</center>
