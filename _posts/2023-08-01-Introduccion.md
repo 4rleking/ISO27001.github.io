@@ -145,3 +145,11 @@ Y estos son los registros obligatorios:
 * Registros sobre actividades de los usuarios, excepciones y eventos de seguridad (puntos A.12.4.1 y A.12.4.3)
 
 Por supuesto que una empresa puede decidir confeccionar otros documentos de seguridad adicionales si lo considera necesario.
+
+Al igual que con la mayoría de normas de sistemas de gestión ISO, los requisitos de la ISO 27001 que deben cumplirse se especifican en las cláusulas 4.0 - 10.0.
+
+A diferencia de la mayoría de las demás normas ISO, una organización debe cumplir con todos los requisitos de las cláusulas 4.0-10.0 `no se pueden declarar una o más cláusulas como no aplicables`.
+
+La ISO 27001, además de las cláusulas 4.0-10.0, tiene un conjunto adicional de requisitos detallados en una sección llamada `Anexo A`, a la que se hace referencia en la Cláusula 6.0.
+
+El Anexo A contiene 114 controles de seguridad de la información a modo de buenas prácticas. Cada uno de estos 114 controles debe ser considerado. Para cumplir con la ISO 27001, la organización debe implementar estos controles, o se debe dar una justificación aceptable para no implementar un control en particular.
