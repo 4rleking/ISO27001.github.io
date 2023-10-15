@@ -55,6 +55,10 @@ Además, la norma ISO 27001 se puede integrar con otros estándares y marcos de 
 * `Sección 10 – Mejora`: Por último, en la sección décima vamos a encontrar las obligaciones que tendrá una organización cuando encuentre una no conformidad y la importancia de mejorar continuamente la conveniencia, adecuación y eficacia del SGSI.
 * `Annexo A` – este anexo proporciona un catálogo de 114 controles (medidas de seguridad) distribuidos en 14 secciones (secciones A.5 a A.18).
 
+<center>
+    <img src='./../assets/images/Introduccion/Estructura.jpg'>
+</center>
+
 ## Controles de la norma ISO 27001
 
 La norma ISO/IEC 27002 establece un marco de gestión de seguridad de la información que incluye una serie de controles norma iso 27001 para garantizar la confidencialidad, integridad y disponibilidad de la información. Algunos de los controles incluidos en la norma son:
