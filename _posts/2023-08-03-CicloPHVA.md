@@ -26,3 +26,10 @@ PHVA es un ejemplo de un sistema cerrado en círculo. Esto asegura el aprendizaj
 <center>
     <img src='./../assets/images/Ciclo/PHVA.png'>
 </center>
+
+El modelo PDCA (Plan-Do-Check-Act) propuesto por Deming (1986) es una estrategia de mejora continua de la calidad en cuatro pasos. Se trata de un proceso cíclico (también conocido como espiral de Deming) que consta de cuatro fases:
+
+1. PLAN (Planificar): Establecer los objetivos y procesos necesarios para obtener los resultados de acuerdo con el resultado esperado. Al tomar como foco el resultado esperado, difiere de otras técnicas en las que el logro o la precisión de la especificación es también parte de la mejora.
+2. DO (Hacer). Implementar los nuevos procesos. Si es posible, en una pequeña escala.
+3. CHECK (Verificar): Pasado un periodo de tiempo previsto de antemano, volver a recopilar datos de control y analizarlos, comparándolos con los objetivos y especificaciones iniciales, para evaluar si se ha producido la mejora esperada. Documentar las conclusiones.
+4. ACT (Actuar): Modificar los procesos según las conclusiones del paso anterior para alcanzar los objetivos con las especificaciones iniciales, si fuese necesario. Aplicar nuevas mejoras, si se han detectado errores en el paso anterior. Documentar el proceso.
