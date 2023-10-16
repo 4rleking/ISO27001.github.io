@@ -5,7 +5,7 @@ excerpt: ""
 date: 2023-08-05
 classes: wide
 header:
-  teaser: /assets/images/
+  teaser: /assets/images/Referencias/Intro1.jpg
   teaser_home_page: true
 categories:
   - 
@@ -13,7 +13,7 @@ tags:
   - 
 ---
 
-![](/assets/images/)
+![](/assets/images/Referencias/Intro2.jpg)
 
 En las normas ISO, la sección de referencias normativas enumeran otras normas que contengan información relevante para determinar el cumplimiento de una organización con la norma. En la ISO 27001 solo nos encontramos con un documento en cuestión, la ISO 27000 Tecnologías de la información - Resumen y vocabulario.
 
