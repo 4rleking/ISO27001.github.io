@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Auditorias
-excerpt: ""
+excerpt: "Las auditorías ISO 27001 muestran el cumplimiento de la norma por parte de una organización, así como un compromiso con las buenas prácticas en materia de seguridad de la información."
 date: 2023-08-08
 classes: wide
 header:
@@ -17,7 +17,7 @@ tags:
 
 ## Auditoria basada en riesgos
 
-Las auditorías son un proceso de acercamiento sistemático y basado en evidencias para evaluar su SGSI. Se llevan a cabo de forma interna y externa para verificar la efectividad de un SGSI. Las auditorías son un ejemplo brillante de como la mentalidad basada en riesgos se adopta en el sistema de gestión.
+Las auditorías son un proceso de acercamiento sistemático y basado en evidencias para evaluar su SGSI, se llevan a cabo de forma interna y externa para verificar la efectividad de un SGSI. Las auditorías son un ejemplo brillante de como la mentalidad basada en riesgos se adopta en el sistema de gestión.
 
 ### Auditorías de 1ª parte: Auditorías internas
 
@@ -41,7 +41,7 @@ establecimiento de su propio SGSI le asegurará que está preparado.
 
 Las auditorías de 3ª parte son llevadas a cabo por organismos externos de certificación acreditados como NQA. El organismo de certificación evaluará la conformidad con la norma ISO 27001:2013. Esto implica la visita de un auditor del organismo de certificación a la organización para evaluar el sistema relevante y sus procesos. Mantener la certificación también implica reevaluaciones periódicas. La certificación demuestra a los clientes que está comprometido con la calidad.
 
-LA CERTIFICACIÓN GARANTIZA:
+La certificación garantiza:
 
 * Una evaluación regular para controlar y mejorar procesos de forma continua.
 * Credibilidad del sistema para conseguir objetivos deseados.
