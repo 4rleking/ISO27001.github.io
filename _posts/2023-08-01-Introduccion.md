@@ -121,32 +121,32 @@ Para implementar la norma ISO 27001 en una empresa, usted tiene que seguir estos
 
 ISO 27001 requiere que se confeccione la siguiente documentación:
 
-* Alcance del SGSI (punto 4.3)
-* Objetivos y política de seguridad de la información (puntos 5.2 y 6.2)
-* Metodología de evaluación y tratamiento de riesgos (punto 6.1.2)
-* Declaración de aplicabilidad (punto 6.1.3 d)
-* Plan de tratamiento de riesgos (puntos 6.1.3 e y 6.2)
-* Informe de evaluación de riesgos (punto 8.2)
-* Definición de roles y responsabilidades de seguridad (puntos A.7.1.2 y A.13.2.4)
-* Inventario de activos (punto A.8.1.1)
-* Uso aceptable de los activos (punto A.8.1.3)
-* Política de control de acceso (punto A.9.1.1)
-* Procedimientos operativos para gestión de TI (punto A.12.1.1)
-* Principios de ingeniería para sistema seguro (punto A.14.2.5)
-* Política de seguridad para proveedores (punto A.15.1.1)
-* Procedimiento para gestión de incidentes (punto A.16.1.5)
-* Procedimientos para continuidad del negocio (punto A.17.1.2)
-* Requisitos legales, normativos y contractuales (punto A.18.1.1)
+* Alcance del SGSI.
+* Objetivos y política de seguridad de la información.
+* Metodología de evaluación y tratamiento de riesgos.
+* Declaración de aplicabilidad.
+* Plan de tratamiento de riesgos.
+* Informe de evaluación de riesgos.
+* Definición de roles y responsabilidades de seguridad.
+* Inventario de activos.
+* Uso aceptable de los activos.
+* Política de control de acceso.
+* Procedimientos operativos para gestión de TI.
+* Principios de ingeniería para sistema seguro.
+* Política de seguridad para proveedores.
+* Procedimiento para gestión de incidentes.
+* Procedimientos para continuidad del negocio.
+* Requisitos legales, normativos y contractuales.
 
 Y estos son los registros obligatorios:
 
-* Registros de capacitación, habilidades, experiencia y calificaciones (punto 7.2)
-* Monitoreo y resultados de medición (punto 9.1)
-* Programa de auditoría interna (punto 9.2)
-* Resultados de auditorias internas (punto 9.2)
-* Resultados de la revisión por parte de la dirección (punto 9.3)
-* Resultados de medidas correctivas (punto 10.1)
-* Registros sobre actividades de los usuarios, excepciones y eventos de seguridad (puntos A.12.4.1 y A.12.4.3)
+* Registros de capacitación, habilidades, experiencia y calificaciones.
+* Monitoreo y resultados de medición.
+* Programa de auditoría interna.
+* Resultados de auditorias internas.
+* Resultados de la revisión por parte de la dirección.
+* Resultados de medidas correctivas.
+* Registros sobre actividades de los usuarios, excepciones y eventos de seguridad.
 
 Por supuesto que una empresa puede decidir confeccionar otros documentos de seguridad adicionales si lo considera necesario.
 
@@ -156,4 +156,4 @@ A diferencia de la mayoría de las demás normas ISO, una organización debe cum
 
 La ISO 27001, además de las cláusulas 4.0-10.0, tiene un conjunto adicional de requisitos detallados en una sección llamada `Anexo A`, a la que se hace referencia en la Cláusula 6.0.
 
-El Anexo A contiene 114 controles de seguridad de la información a modo de buenas prácticas. Cada uno de estos 114 controles debe ser considerado. Para cumplir con la ISO 27001, la organización debe implementar estos controles, o se debe dar una justificación aceptable para no implementar un control en particular.
+El Anexo A contiene 114 controles de seguridad de la información a modo de buenas prácticas, cada uno de estos controles debe ser considerado para cumplir con la ISO 27001, la organización debe implementar estos controles, o se debe dar una justificación aceptable para no implementar un control en particular.
