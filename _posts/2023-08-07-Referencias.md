@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cláusula 2 (Referencias Normativas)
-excerpt: ""
+excerpt: "Hace referencia a ISO/IEC 27000, se encuentra en el texto de la norma de tal manera que parte o la totalidad de su contenido constituye requisitos de este documento. Para las referencias que contienen fecha, solo se aplica la edición que se cita. Para las referencias sin fecha, se aplica la última edición del documento de referencia, incluidas sus modificaciones."
 date: 2023-08-05
 classes: wide
 header:
