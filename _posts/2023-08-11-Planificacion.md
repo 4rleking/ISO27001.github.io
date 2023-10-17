@@ -5,7 +5,7 @@ excerpt: ""
 date: 2023-08-01
 classes: wide
 header:
-  teaser: /assets/images/
+  teaser: /assets/images/Planificacion/Intro1.jpg
   teaser_home_page: true
 categories:
   - 
@@ -13,7 +13,7 @@ tags:
   - 
 ---
 
-![](/assets/images/)
+![](/assets/images/Planificacion/Intro2.jpg)
 
 La ISO 27001 es una herramienta de gestión de riesgos que guía a una organización en la identificación de riesgos de seguridad de la información. Como tal, el propósito subyacente de un SGSI es:
 
