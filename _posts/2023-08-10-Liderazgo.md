@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Cláusula 5 (Liderazgo)
-excerpt: ""
+excerpt: "Una de las primeras interrogantes que se presenta es: ¿qué se entiende por liderazgo empresarial? Es muy sencillo, es la habilidad que tienen los directivos de una organización de influir sobre el trabajo del personal, pero de forma positiva, a fin de que todos juntos puedan alcanzar todos los objetivos trazados."
 date: 2023-08-02
 classes: wide
 header:
-  teaser: /assets/images/
+  teaser: /assets/images/Liderazgo/Intro1.png
   teaser_home_page: true
 categories:
   - 
@@ -13,7 +13,7 @@ tags:
   - 
 ---
 
-![](/assets/images/)
+![](/assets/images/Liderazgo/Intro2.jpg)
 
 ## Importancia
 
@@ -21,14 +21,14 @@ El liderazgo significa una participación activa en la dirección del SGSI, prom
 
 * Asegurar que los objetivos del SGSI sean claros y estén alineados con la estrategia general.
 * Claridad sobre las responsabilidades.
-* Que el pensamiento basado en el riesgo está en el corazón de toda toma de decisiones
+* Que el pensamiento basado en el riesgo está en el corazón de toda toma de decisiones.
 * Hay una comunicación clara de esta información a todas las personas dentro del alcance del SGSI.
 
 La ISO 27001 otorga gran importancia a la participación activa de la gerencia en el SGSI, basándose en el supuesto de que es crucial para garantizar la implementación y el mantenimiento efectivo de un SGSI efectivo.
 
 ## Política de seguridad
 
-Una responsabilidad vital del liderazgo es establecer y documentar una Política de Seguridad de la Información que esté alineada con los objetivos clave de la organización. Debe incluir objetivos o un marco para establecerlos. Para demostrar que está alineado con el contexto de su organización y los requisitos de las partes interesadas clave, se recomienda que haga referencia o contenga un resumen de los principales problemas y requisitos que debe administrar. También debe incluir un compromiso para:
+Una responsabilidad vital del liderazgo es establecer y documentar una `Política de Seguridad de la Información` que esté alineada con los objetivos clave de la organización. Debe incluir objetivos o un marco para establecerlos. Para demostrar que está alineado con el contexto de su organización y los requisitos de las partes interesadas clave, se recomienda que haga referencia o contenga un resumen de los principales problemas y requisitos que debe administrar. También debe incluir un compromiso para:
 
 * Cumplir requisitos aplicables relacionados con la seguridad de la información, tales como requisitos legales, expectativas del cliente y compromisos contractuales.
 * La mejora continua de su SGSI.
@@ -39,7 +39,7 @@ CONSEJO: Para aegurar que la política de la seguridad de la información está 
 
 * Incluirlo en paquetes de inducción y presentaciones para nuevos empleados y contratistas.
 * Publicar la declaración clave en tableros de anuncios internos, intranets y el sitio web de su organización.
-* Hacer que su cumplimiento y /o soporte sea un requisito contractual para los empleados, contratistas y proveedores críticos de seguridad de la información.
+* Hacer que su cumplimiento y/o soporte sea un requisito contractual para los empleados, contratistas y proveedores críticos de seguridad de la información.
 
 ## Roles y responsabilidades
 
