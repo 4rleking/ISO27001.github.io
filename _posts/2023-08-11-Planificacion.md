@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cláusula 6 (Planificación)
-excerpt: ""
+excerpt: "La planificación organizacional es la forma o proceso en el que una empresa organiza sus operaciones diarias. Contar con este tipo de estructura les permite a las compañías alcanzar sus objetivos de manera más rápida, controlada y eficiente."
 date: 2023-08-01
 classes: wide
 header:
@@ -15,23 +15,23 @@ tags:
 
 ![](/assets/images/Planificacion/Intro2.jpg)
 
-La ISO 27001 es una herramienta de gestión de riesgos que guía a una organización en la identificación de riesgos de seguridad de la información. Como tal, el propósito subyacente de un SGSI es:
+La ISO 27001 es una herramienta de gestión de riesgos que `guía a una organización en la identificación de riesgos de seguridad de la información`. Como tal, el propósito subyacente de un SGSI es:
 
-• Identificar los riesgos estratégicamente importantes, obvios y ocultos pero peligrosos;
-• Asegurarse de que las actividades y los procesos operativos diarios de una organización estén diseñados, dirigidos y tengan recursos para gestionar inherentemente esos riesgos; y
-• Responder y se adaptarse automáticamente a los cambios para hacer frente a los nuevos riesgos y reducir continuamente la exposición a los mismos.
+• Identificar los riesgos estratégicamente importantes, obvios y ocultos pero peligrosos.
+• Asegurarse de que las actividades y los procesos operativos diarios de una organización estén diseñados, dirigidos y tengan recursos para gestionar inherentemente esos riesgos.
+• Responder y adaptarse automáticamente a los cambios para hacer frente a los nuevos riesgos y reducir continuamente la exposición a los mismos.
 
 Tener un plan de acción detallado que esté alineado, actualizado y respaldado por revisiones y controles regulares es crucial y proporciona evidencia para el auditor de una planificación del sistema claramente definida.
 
 ## Evaluación de riesgos
 
-La evaluación de riesgos es el núcleo de cualquier SGSI eficaz. Incluso la organización con más recursos no puede descartar la posibilidad de sufrir un incidente de seguridad de la información. La evaluación de riesgos es esencial para:
+La evaluación de riesgos es el núcleo de cualquier SGSI eficaz. Incluso la organización con más recursos no puede descartar la posibilidad de sufrir un incidente de seguridad de la información.
 
-• Aumentar la probabilidad de identificar riesgos potenciales mediante la participación de personal que utiliza écnicas de evaluación sistemática;
-• Asignar recursos para abordar las áreas de mayor prioridad;
+La evaluación de riesgos es esencial para:
+
+• Aumentar la probabilidad de identificar riesgos potenciales mediante la participación de personal que utiliza técnicas de evaluación sistemática.
+• Asignar recursos para abordar las áreas de mayor prioridad.
 • Tomar decisiones estratégicas sobre cómo gestionar los riesgos de seguridad de la información significativos y lograr así sus objetivos.
-
-La mayoría de los marcos de evaluación de riesgos consisten en una tabla que contiene los resultados de los elementos 1-4 con una tabla complementaria que cubre el punto 5.
 
 El auditor externo esperará ver un registro de su evaluación de riesgos, un responsble asignado para cada riesgo identificado y los criterios que ha utilizado.
 
