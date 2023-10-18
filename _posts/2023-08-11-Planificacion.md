@@ -65,13 +65,13 @@ El auditor externo esperará ver un plan de tratamiento de riesgos (por ejemplo,
 
 ## Anexo A y declaración de aplicabilidad
 
-Todas las opciones de tratamiento de riesgos (a excepción de la aceptación) implican la implementación de controles. El anexo A de la ISO 27001 contiene una lista de 114 controles de seguridad de la información de buenas prácticas. Deberá considerar cada uno de estos controles al formular su plan de tratamiento de riesgos. La descripción de la mayoría de los controles es bastante vaga, por lo que se recomienda que revise la ISO 27002, que contiene más información sobre su implementación.
+Todas las opciones de tratamiento de riesgos (a excepción de la aceptación) implican la implementación de controles. `El anexo A` de la ISO 27001 contiene una lista de 114 controles de seguridad de la información de buenas prácticas. Deberá considerar cada uno de estos controles al formular su plan de tratamiento de riesgos. La descripción de la mayoría de los controles es bastante vaga, por lo que se recomienda que revise la ISO 27002, que contiene más información sobre su implementación.
 
-Como evidencia de que usted ha completado esta evaluación, un auditor externo esperará que usted presente un documento llamado declaración de aplicabilidad. Para cada uno de los 114 controles debe registrar:
+Como evidencia de que usted ha completado esta evaluación, un auditor externo esperará que usted presente un documento llamado `declaración de aplicabilidad`. Para cada uno de los 114 controles debe registrar:
 
-• Si es aplicable a sus actividades, procesos y riesgos de seguridad de la información.
-• Si lo has implementado o no.
-• Si lo ha considerado no aplicable, su justificación para hacerlo.
+* Si es aplicable a sus actividades, procesos y riesgos de seguridad de la información.
+* Si lo has implementado o no.
+* Si lo ha considerado no aplicable, su justificación para hacerlo.
 
 Para la mayoría de las organizaciones, los 114 controles serán aplicables, y es probable que ya hayan implementado algunos de ellos.
 
@@ -83,29 +83,29 @@ En los niveles relevantes, necesitará tener objetivos documentados y relacionad
 
 Cada objetivo establecido debe ser:
 
-• Medible.
-• Estar alineado con la política del SGSI.
-• Considerar los requisitos a nivel de seguridad de la información.
-• Considerar los resultados de la evaluación de riesgos y del proceso de tratamiento de riesgos.
+* Medible.
+* Estar alineado con la política del SGSI.
+* Considerar los requisitos a nivel de seguridad de la información.
+* Considerar los resultados de la evaluación de riesgos y del proceso de tratamiento de riesgos.
 
 Los objetivos relevantes para la seguridad de la información incluyen:
 
-• No exceder la frecuencia definida para ciertos tipos de incidentes de seguridad de la información.
-• Conseguir un nivel medible de cumplimiento con los controles de seguridad de la información.
-• Proporcionar una disponibilidad definida para los servicios de la información.
-• No exceder un número medible de errores de datos.
-• Mejoras en los recursos disponibles a través de selección, formación o adquisición.
-• Implementación de nuevos controles.
-• Conseguir cumplimiento las normas relativas a la seguridad de la información.
+* No exceder la frecuencia definida para ciertos tipos de incidentes de seguridad de la información.
+* Conseguir un nivel medible de cumplimiento con los controles de seguridad de la información.
+* Proporcionar una disponibilidad definida para los servicios de la información.
+* No exceder un número medible de errores de datos.
+* Mejoras en los recursos disponibles a través de selección, formación o adquisición.
+* Implementación de nuevos controles.
+* Conseguir cumplimiento las normas relativas a la seguridad de la información.
 
-Cada objetivo debe comunicarse a las personas relevantes. Los objetivos deben actualizarse cuando sea necesario para estra actualizados y evaluar el desempeño en función de ellos.
+Cada objetivo debe comunicarse a las personas relevantes. Los objetivos deben actualizarse cuando sea necesario para estar actualizados y evaluar el desempeño en función de ellos.
 
 Para cada uno de los objetivos, necesita indicar cómo va a lograrlos. Esto incluye determinar:
 
-• Qué necesidades deben conseguirse.
-• Qué recursos se asignan.
-• Quién tiene la responsabilidad sobre el objetivo.
-• Si hay una fecha objetivo para completar el objetivo o es continuo.
-• El método para evaluar el desempeño frente al objetivo (es decir, cuál es su medida).
+* Qué necesidades deben conseguirse.
+* Qué recursos se asignan.
+* Quién tiene la responsabilidad sobre el objetivo.
+* Si hay una fecha objetivo para completar el objetivo o es continuo.
+* El método para evaluar el desempeño frente al objetivo (es decir, cuál es su medida).
 
 CONSEJO: las formas efectivas de comunicar los objetivos de seguridad de la información incluyen cubrirlos en la formación, establecerlos como objetivos de los empleados o incluirlos en las evaluaciones de los empleados, establecerlos en acuerdos de nivel de servicio con proveedores o evaluar el desempeño con respecto a ellos en las revisiones de desempeño del proveedor.
