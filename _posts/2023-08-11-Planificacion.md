@@ -17,9 +17,9 @@ tags:
 
 La ISO 27001 es una herramienta de gestión de riesgos que `guía a una organización en la identificación de riesgos de seguridad de la información`. Como tal, el propósito subyacente de un SGSI es:
 
-• Identificar los riesgos estratégicamente importantes, obvios y ocultos pero peligrosos.
-• Asegurarse de que las actividades y los procesos operativos diarios de una organización estén diseñados, dirigidos y tengan recursos para gestionar inherentemente esos riesgos.
-• Responder y adaptarse automáticamente a los cambios para hacer frente a los nuevos riesgos y reducir continuamente la exposición a los mismos.
+* Identificar los riesgos estratégicamente importantes, obvios y ocultos pero peligrosos.
+* Asegurarse de que las actividades y los procesos operativos diarios de una organización estén diseñados, dirigidos y tengan recursos para gestionar inherentemente esos riesgos.
+* Responder y adaptarse automáticamente a los cambios para hacer frente a los nuevos riesgos y reducir continuamente la exposición a los mismos.
 
 Tener un plan de acción detallado que esté alineado, actualizado y respaldado por revisiones y controles regulares es crucial y proporciona evidencia para el auditor de una planificación del sistema claramente definida.
 
@@ -29,15 +29,15 @@ La evaluación de riesgos es el núcleo de cualquier SGSI eficaz. Incluso la org
 
 La evaluación de riesgos es esencial para:
 
-• Aumentar la probabilidad de identificar riesgos potenciales mediante la participación de personal que utiliza técnicas de evaluación sistemática.
-• Asignar recursos para abordar las áreas de mayor prioridad.
-• Tomar decisiones estratégicas sobre cómo gestionar los riesgos de seguridad de la información significativos y lograr así sus objetivos.
+* Aumentar la probabilidad de identificar riesgos potenciales mediante la participación de personal que utiliza técnicas de evaluación sistemática.
+* Asignar recursos para abordar las áreas de mayor prioridad.
+* Tomar decisiones estratégicas sobre cómo gestionar los riesgos de seguridad de la información significativos y lograr así sus objetivos.
 
 El auditor externo esperará ver un registro de su evaluación de riesgos, un responsble asignado para cada riesgo identificado y los criterios que ha utilizado.
 
 CONSEJO: el Anexo A (8.1.1) contiene requisitos sobre listas de activos de información, activos asociados con la información (edificios, archivadores, ordenadores...) e instalaciones de procesamiento de información. Si completa su evaluación de riesgos evaluando sistemáticamente los riesgos planteados para cada elemento de esta lista, entonces habrá cumplido dos requisitos dentro del mismo ejercicio. Además, si asigna un responsable, también habrá cumplido con otro requisito del Anexo A (8.1.2).
 
-ISO 27005: la gestión de riesgos de seguridad de la información ofrece orientación en el desarrollo de una técnica de evaluación de riesgos. Cualquiera que sea la técnica que desarrolle, debe incluir los siguientes elementos clave:
+`ISO 27005`: la gestión de riesgos de seguridad de la información ofrece orientación en el desarrollo de una técnica de evaluación de riesgos. Cualquiera que sea la técnica que desarrolle, debe incluir los siguientes elementos clave:
 
 1. Proporcionar aviso para la identificación sistemática de riesgos (revisión de activos, grupos de activos, procesos, tipos de información), verificando la presencia de amenazas y vulnerabilidades comunes y registrando los controles que actualmente tiene implementados para administrarlos.
 2. Proporcionar un marco para evaluar la probabilidad de que el riesgo ocurra de manera persistente (una vez al mes, una vez al año).
@@ -49,17 +49,17 @@ ISO 27005: la gestión de riesgos de seguridad de la información ofrece orienta
 
 Para cada riesgo identificado en su evaluación de riesgos, deberá aplicar criterios para determinar si:
 
-• Acepta el riesgo.
-• Trata el riesgo (tratamiento de riesgos).
+* Acepta el riesgo.
+* Trata el riesgo (tratamiento de riesgos).
 
-Las opciones para el tratamiento de riesgos incluyen una de las siguientes opciones;
+Las opciones para el tratamiento de riesgos incluyen las siguientes opciones:
 
-• Evasión: dejar de realizar la actividad o procesar la información que está expuesta al riesgo.
-• Eliminación: Eliminar la fuente del riesgo.
-• Cambio de probabilidad: implementar un control que reduzca los incidentes de seguridad de la información.
-• Cambio en las consecuencias: Implemente un control que disminuya el impacto si ocurre un incidente.
-• Transferencia del riesgo: Externalizar la actividad a un tercero que tenga mayor capacidad para gestionar el riesgo.
-• Aceptar el riesgo: Si no hay un tratamiento de riesgo práctico disponible para la organización, o si se considera que el costo del tratamiento de riesgo es mayor que el costo del impacto, puede tomar la decisión de aceptar el riesgo. Esto debe ser aprobado por la gerencia.
+* `Evasión`: dejar de realizar la actividad o procesar la información que está expuesta al riesgo.
+* `Eliminación`: Eliminar la fuente del riesgo.
+* `Cambio de probabilidad`: implementar un control que reduzca los incidentes de seguridad de la información.
+* `Cambio en las consecuencias`: Implemente un control que disminuya el impacto si ocurre un incidente.
+* `Transferencia del riesgo`: Externalizar la actividad a un tercero que tenga mayor capacidad para gestionar el riesgo.
+* `Aceptar el riesgo`: Si no hay un tratamiento de riesgo práctico disponible para la organización, o si se considera que el costo del tratamiento de riesgo es mayor que el costo del impacto, puede tomar la decisión de aceptar el riesgo. Esto debe ser aprobado por la gerencia.
 
 El auditor externo esperará ver un plan de tratamiento de riesgos (por ejemplo, una lista de acciones) que detalle las acciones de tratamiento de riesgos que ha implementado o planea implementar. El plan debe ser lo suficientemente detallado para permitir que se verifique el estado de implementación de cada acción. También será necesario que exista evidencia de que este plan ha sido aprobado por los responsables de los mismos y por la gerencia.
 
