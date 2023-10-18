@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Cláusula 8 (Operación)
-excerpt: ""
+excerpt: "La norma nos pone ahora requisitos para controlar el cambio. En otras palabras nos tenemos que pensar cómo vamos a manejar los cambios ya sean planificados o no. Para cumplir con el estándar, debe poder demostrar que ha identificado los efectos que el cambio puede tener en sus sistemas, que ha implementado algunas acciones para ayudar a disminuir cualquier impacto."
 date: 2023-07-30
 classes: wide
 header:
-  teaser: /assets/images/
+  teaser: /assets/images/Operacion/Intro1.webp
   teaser_home_page: true
 categories:
   - 
@@ -13,7 +13,7 @@ tags:
   - 
 ---
 
-![](/assets/images/)
+![](/assets/images/Operacion/Intro2.jpg)
 
 Tras la planificación y evaluación de riesgos, estamos listos para pasar a la etapa de "hacer". La cláusula 8 trata de tener un control adecuado sobre la creación y entrega del producto o servicio.
 
